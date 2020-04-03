@@ -8,8 +8,7 @@ const typeDefs = `
 
 const resolvers = {
   Query: {
-    hello: (root, args, context, info) => "Hello  World"
-  }
+    hello: (root, args, context, info) => "Hello from Graphql-yoga"}
 };
 
 const server = new GraphQLServer({typeDefs, resolvers});
