@@ -53,7 +53,7 @@ yarn start
 
 ![](https://imgur.com/95faUsa.png)
 
-| File name 　　　　　　　　　　　　　　| Description 　　　　　　　　<br><br>| 
+| File name 　　　　　　　　　　　　　　| Description 　　　　　　　　<br><br>|
 | :--  | :--         |
 | `└── prisma ` (_directory_) | _Contains all files that are related to the Prisma database service_ |\
 | `　　├── prisma.yml` | The root configuration file for your Prisma database service ([docs](https://www.prismagraphql.com/docs/reference/prisma.yml/overview-and-example-foatho8aip)) |
@@ -69,3 +69,6 @@ yarn start
 The GraphQL boilerplates are maintained by the GraphQL community, with official support from the [Apollo](https://www.apollographql.com/) & [Prisma](https://www.prisma.io) teams.
 
 Your feedback is **very helpful**, please share your opinion and thoughts! If you have any questions or want to contribute yourself, join the `#graphql-boilerplate` channel on our [Slack](https://slack.prisma.io/).
+
+
+Add more server Documentation.
